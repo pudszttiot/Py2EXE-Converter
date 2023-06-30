@@ -1,0 +1,28 @@
+# Py2EXE Converter
+
+This is a Python program to convert a Python script into an executable (.exe) file using PyInstaller.
+
+## Requirements
+
+- Python 3.x
+- PyQt5
+
+## Usage
+
+1. Run the program by executing `python py2exe_converter.py` in the command line or by double-clicking the file in your file explorer.
+2. Select a Python script to convert by clicking "Browse for Python file" and selecting the file.
+3. (Optional) Select an icon (.ico) file for your executable by clicking "Browse for Icon" and selecting the file.
+4. Enter a name for your executable in the "Enter application name" field.
+5. Select an output folder where the executable will be saved by clicking "Browse for Output Folder" and selecting a directory.
+6. Choose any desired PyInstaller options by checking the corresponding checkboxes.
+7. Click "Convert" to create the executable file.
+
+## How it works
+
+The program uses PyInstaller to package the Python script and its dependencies into a single executable file. The following PyInstaller options are available:
+
+- `--onefile`: Packages everything into a single file
+- `--windowed`: Hides the console when the executable is run
+- `--noconsole`: Prevents the console from opening
+
+The program also allows you to specify an icon file to use for the executable and to name the output file.
