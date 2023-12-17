@@ -40,9 +40,9 @@ Explain how to install your project.
 
 ## Features 
 
-• Intuitive Interface: A clean and straightforward GUI for effortless interaction.
+- Intuitive Interface: A clean and straightforward GUI for effortless interaction.
 
-• File Selection: Easily browse and select Python scripts for conversion.
+- File Selection: Easily browse and select Python scripts for conversion.
 
 • Icon Customization: Choose a custom icon to personalize the resulting executable.
 
