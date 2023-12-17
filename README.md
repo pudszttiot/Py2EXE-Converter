@@ -4,7 +4,7 @@
 
 # Py2EXE Converter
 
-APP DESCRIPTION HERE... ex: pipReq is a Python application designed to effortlessly perform various essential operations related to Python package management, such as generating 'requirements.txt' files, checking for installed package issues, updating packages and installing from 'requirements.txt'. 
+Py2EXE Converter is a user-friendly GUI application created with PyQt5, designed to streamline the process of converting Python scripts into standalone executable files using PyInstaller. This tool simplifies the conversion workflow by providing an intuitive interface for selecting Python files, customizing output options, and generating executable files with ease.
 
 ## Screenshots 
 
@@ -28,7 +28,13 @@ Provide examples and guidelines on how to use your project.
 
 ## Features 
 
-List and describe the key features of your project. 
+Intuitive Interface: A clean and straightforward GUI for effortless interaction.
+File Selection: Easily browse and select Python scripts for conversion.
+Icon Customization: Choose a custom icon to personalize the resulting executable.
+Output Folder Selection: Select a destination folder for the generated executable.
+Application Naming: Set a custom name for the executable.
+Conversion Options: Configure conversion settings, including '--onefile', '--console', and '--noconsole'.
+Feedback Mechanism: Informative messages through QMessageBox for successful or failed conversions.
 
 ## Contributing 
 
