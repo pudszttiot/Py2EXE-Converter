@@ -56,7 +56,7 @@ Feedback Mechanism: Informative messages through QMessageBox for successful or f
 
 ## Contributing 
 
-Tell others how they can contribute to your project. 
+Contributions and feedback are welcome! Feel free to submit issues, feature requests, or pull requests to enhance Py2EXE Converter. 
 
 ## License 
 
