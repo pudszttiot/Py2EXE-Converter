@@ -24,7 +24,19 @@ Explain how to install your project.
 
 ## Usage 
 
-Provide examples and guidelines on how to use your project. 
+1. Run the application using python py2exe_converter.py
+
+2. Select Python files for conversion.
+
+3. Optionally choose an icon.
+
+4. Set the application name.
+
+5. Choose the output folder.
+
+6. Configure conversion options to meet your requirements.
+
+7. Click "Convert" to initiate the Python-to-EXE conversion process.
 
 ## Features 
 
