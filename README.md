@@ -38,6 +38,11 @@ Explain how to install your project.
 
 7. Click "Convert" to initiate the Python-to-EXE conversion process.
 
+
+```python
+python py2exe_converter.py
+```
+
 ## Features 
 
 - Intuitive Interface: A clean and straightforward GUI for effortless interaction.
