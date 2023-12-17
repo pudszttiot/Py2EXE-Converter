@@ -44,15 +44,15 @@ Explain how to install your project.
 
 - File Selection: Easily browse and select Python scripts for conversion.
 
-• Icon Customization: Choose a custom icon to personalize the resulting executable.
+- Icon Customization: Choose a custom icon to personalize the resulting executable.
 
-• Output Folder Selection: Select a destination folder for the generated executable.
+- Output Folder Selection: Select a destination folder for the generated executable.
 
-• Application Naming: Set a custom name for the executable.
+- Application Naming: Set a custom name for the executable.
 
-• Conversion Options: Configure conversion settings, including '--onefile', '--console', and '--noconsole'.
+- Conversion Options: Configure conversion settings, including '--onefile', '--console', and '--noconsole'.
 
-• Feedback Mechanism: Informative messages through QMessageBox for successful or failed conversions.
+- Feedback Mechanism: Informative messages through QMessageBox for successful or failed conversions.
 
 ## Contributing 
 
