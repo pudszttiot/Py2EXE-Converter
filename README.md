@@ -68,6 +68,3 @@ Contributions and feedback are welcome! Feel free to submit issues, feature requ
 This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details. 
 
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
