@@ -49,10 +49,10 @@ python py2exe_converter.py
   - A clean and straightforward GUI for effortless interaction.
 
 - File Selection:
-  -Easily browse and select Python scripts for conversion.
+  - Easily browse and select Python scripts for conversion.
 
 - Icon Customization:
-  -Choose a custom icon to personalize the resulting executable.
+  - Choose a custom icon to personalize the resulting executable.
 
 - Output Folder Selection:
   - Select a destination folder for the generated executable.
@@ -61,7 +61,7 @@ python py2exe_converter.py
   - Set a custom name for the executable.
 
 - Conversion Options:
-  -Configure conversion settings, including '--onefile', '--console', and '--noconsole'.
+  - Configure conversion settings, including '--onefile', '--console', and '--noconsole'.
 
 - Informative messages boxes for successful or failed conversions.
 
